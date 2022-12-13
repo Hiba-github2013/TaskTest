@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3A0FkeesPVkEdvbteAyC685GsKYyaJvse5NwO4IN0Xcz1HG4kd5F5uxQtQv7fg4Kl1UquQ2HcwEsegtrvJb+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Task\\Task1 - Copy - Copy\\WebAPI1\\WebAPI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

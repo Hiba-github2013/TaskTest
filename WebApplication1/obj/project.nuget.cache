@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ck3CgxGk7ik/fUlf6PF/KfFQI8+1kliG/CC6iVB8Eba27pcdb7UQmZyyKzZiR4l4ObRBIzKS2VCkxQMbxl+vzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Task\\Task1 - Copy - Copy\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
